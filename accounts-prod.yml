@@ -19,7 +19,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to rockyBank accounts related local APIs "
+  message: "Welcome to rockyBank accounts related prod APIs "
   contactDetails:
     name: "rakesh - Production"
     email: "{cipher}e002e72f9a7b84254b9e4cd7a9c06962e924e3e42ad40388b33afc97e3eaab9305880aeed4aa9f7a1e7c7ee03c36906d"
